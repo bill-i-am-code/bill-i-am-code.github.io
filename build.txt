@@ -1,0 +1,7 @@
+#ifndef BUILD_DEF
+#define BUILD_DEF
+
+#include "8relay.h"
+#define CODE_VERSION "221022_17" // TODO: Crude version tracking method
+
+#endif
